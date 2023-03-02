@@ -1718,3 +1718,56 @@ background: #00092A;
     
     color: #FFFFFF;
 }
+
+.about{
+    position: absolute;
+width: 71px;
+height: 24px;
+left: 124px;
+top: -234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.requested{
+    position: absolute;
+width: 131px;
+height: 24px;
+left: 342px;
+top: -234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+
+
+.fb{
+    position: absolute;
+width: 79px;
+height: 24px;
+left: 570px;
+top: -234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
