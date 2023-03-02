@@ -4,51 +4,51 @@
 
 html {
     position: relative;
-  width: 1440px;
-  height: 3098px;
-  
-  background: #041334;
-  }
+    width: 1440px;
+    height: 3098px;
 
-  #header{
-    
-left: 0%;
-right: 0%;
-top: 1%;
-bottom: 0%;
+    background: #041334;
+}
 
-background: rgba(255, 255, 255, 0.02);
-backdrop-filter: blur(50px);
-  }
+#header {
+
+    left: 0%;
+    right: 0%;
+    top: 1%;
+    bottom: 0%;
+
+    background: rgba(255, 255, 255, 0.02);
+    backdrop-filter: blur(50px);
+}
 
 
 
-.header-logo{
+.header-logo {
     position: absolute;
     left: 3.16%;
-right: 74.31%;
-top: 35.16%;
-bottom: 20.16%;
-display: inline;
+    right: 74.31%;
+    top: 35.16%;
+    bottom: 20.16%;
+    display: inline;
 }
 
 
-.cryp{
-position: absolute;
-width: 131px;
-height: 23px;
-left: 700px;
-top: 10px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 22px;
-color: #FFFFFF;
+.cryp {
+    position: absolute;
+    width: 131px;
+    height: 23px;
+    left: 700px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
 
 }
 
-.exchange{
+.exchange {
     position: absolute;
     width: 82px;
     height: 23px;
@@ -59,38 +59,38 @@ color: #FFFFFF;
     font-weight: 500;
     font-size: 15px;
     line-height: 22px;
-    color: #FFFFFF; 
+    color: #FFFFFF;
 }
 
-.comm{
+.comm {
     position: absolute;
-width: 91px;
-height: 23px;
-left: 950px;
-top: 10px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 22px;
-color: #FFFFFF;
+    width: 91px;
+    height: 23px;
+    left: 950px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
 }
 
-.trade{
+.trade {
     position: absolute;
-width: 91px;
-height: 23px;
-left: 1065px;
-top: 10px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 15px;
-line-height: 22px;
-color: #FFFFFF; 
+    width: 91px;
+    height: 23px;
+    left: 1065px;
+    top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
 }
 
-.search{
+.search {
     position: absolute;
     width: 91px;
     height: 23px;
@@ -98,1049 +98,1049 @@ color: #FFFFFF;
     top: 10px;
     width: 24px;
     height: 24px;
-    }
-
-    .sub-detail{
-        position: absolute;
-left: 7.2%;
-right: 54.78%;
-top: 3.84%;
-bottom: 93.31%;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 36px;
-
-color: #FFFFFF;
-
-    }
-
-    .bar-title{
-        position: absolute;
-        left: 7.2%;
-        right: 27.15%;
-        top: 5.34%;
-        bottom: 91.69%;
-        
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 30px;
-        /* identical to box height */
-        
-        
-        color: #FFFFFF;
-        
-
-    }
-
-   
-
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 0px;
-        gap: 32px;
-        
-        position: absolute;
-        left: 8.38%;
-        right: 8.03%;
-        top: 10.42%;
-        bottom: 65.24%;
-        
-      }
-      
-      .row {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        
-      }
-      
-      .name{
-        position: relative;
-        width: 63px;
-        height: 30px;
-        left: 0px;
-        top: 0px;
-        font-family: 'Poppins';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 20px;
-        line-height: 30px;
-        color: #FFFFFF;
-        
-
-      }
-
-      .price-title{
-        position: absolute;
-width: 52px;
-height: 30px;
-left: 391px;
-top: 0px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-      }
-
-
-
-      .change-title{
-        position: absolute;
-width: 125px;
-height: 30px;
-left: 593px;
-top: 0px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-color: #FFFFFF;
-      }
-      
-      
-.chart-title{
-    position: absolute;
-width: 59px;
-height: 30px;
-left: 848px;
-top: 0px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-}      
-      
-.marketcap-title{
-    position: absolute;
-width: 113px;
-height: 30px;
-left: 1066px;
-top: 0px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-color: #FFFFFF;
-
-}  
-
-#bit-image{
-    position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 62px;
 }
 
-.bit{
+.sub-detail {
     position: absolute;
-width: 72px;
-height: 30px;
-left: 63px;
-top: 67px;
+    left: 7.2%;
+    right: 54.78%;
+    top: 3.84%;
+    bottom: 93.31%;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
 
-
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
-.btc{
+.bar-title {
     position: absolute;
-width: 31px;
-height: 24px;
-left: 154px;
-top: 70px;
+    left: 7.2%;
+    right: 27.15%;
+    top: 5.34%;
+    bottom: 91.69%;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #858585;
+    color: #FFFFFF;
+
 
 }
 
-#eth-img{
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
     position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 134px;
-}
-
-
-.ent{
-    position: absolute;
-width: 101px;
-height: 30px;
-left: 65px;
-top: 139px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-}
-
-
-.eth{
-    position: absolute;
-width: 28px;
-height: 24px;
-left: 181px;
-top: 142px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-
-color: #858585;
+    left: 8.38%;
+    right: 8.03%;
+    top: 10.42%;
+    bottom: 65.24%;
 
 }
 
-#shi-img{
-    position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 206px;
-}
-
-.shi{
-    position: absolute;
-width: 92px;
-height: 30px;
-left: 63px;
-top: 211px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
 }
 
-.shibu{
-    position: absolute;
-width: 45px;
-height: 24px;
-left: 170px;
-top: 214px;
+.name {
+    position: relative;
+    width: 63px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-
-color: #858585;
-}
-
-#bit-image-2{
-
-    position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 278px;
 
 }
 
-.bit-2{
+.price-title {
     position: absolute;
-width: 72px;
-height: 30px;
-left: 63px;
-top: 283px;
+    width: 52px;
+    height: 30px;
+    left: 391px;
+    top: 0px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-}
-
-.btc-2{
-    position: absolute;
-width: 31px;
-height: 24px;
-left: 154px;
-top: 286px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #858585;
-}
-
-#eth-img-2{
-    position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 350px;
+    color: #FFFFFF;
 }
 
 
-.ent-2{
+
+.change-title {
     position: absolute;
-width: 101px;
-height: 30px;
-left: 65px;
-top: 355px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-}
-
-.eth-2{
-    position: absolute;
-width: 28px;
-height: 24px;
-left: 181px;
-top: 358px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-
-color: #858585;
+    width: 125px;
+    height: 30px;
+    left: 593px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
 }
 
 
-#shi-img-2{
+.chart-title {
     position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 422px;
+    width: 59px;
+    height: 30px;
+    left: 848px;
+    top: 0px;
 
-    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.marketcap-title {
+    position: absolute;
+    width: 113px;
+    height: 30px;
+    left: 1066px;
+    top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
 
 }
 
-.shi-2{
+#bit-image {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 62px;
+}
+
+.bit {
+    position: absolute;
+    width: 72px;
+    height: 30px;
+    left: 63px;
+    top: 67px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.btc {
+    position: absolute;
+    width: 31px;
+    height: 24px;
+    left: 154px;
+    top: 70px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #858585;
+
+}
+
+#eth-img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 134px;
+}
+
+
+.ent {
+    position: absolute;
+    width: 101px;
+    height: 30px;
+    left: 65px;
+    top: 139px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+
+.eth {
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 181px;
+    top: 142px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #858585;
+
+}
+
+#shi-img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 206px;
+}
+
+.shi {
+    position: absolute;
+    width: 92px;
+    height: 30px;
+    left: 63px;
+    top: 211px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.shibu {
+    position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 170px;
+    top: 214px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #858585;
+}
+
+#bit-image-2 {
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 278px;
+
+}
+
+.bit-2 {
+    position: absolute;
+    width: 72px;
+    height: 30px;
+    left: 63px;
+    top: 283px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.btc-2 {
+    position: absolute;
+    width: 31px;
+    height: 24px;
+    left: 154px;
+    top: 286px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #858585;
+}
+
+#eth-img-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 350px;
+}
+
+
+.ent-2 {
+    position: absolute;
+    width: 101px;
+    height: 30px;
+    left: 65px;
+    top: 355px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.eth-2 {
+    position: absolute;
+    width: 28px;
+    height: 24px;
+    left: 181px;
+    top: 358px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #858585;
+}
+
+
+#shi-img-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 422px;
+
+
+
+}
+
+.shi-2 {
     position: absolute;
     width: 92px;
     height: 30px;
     left: 63px;
     top: 427px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.shibu-2{
+.shibu-2 {
     position: absolute;
-width: 45px;
-height: 24px;
-left: 170px;
-top: 430px;
+    width: 45px;
+    height: 24px;
+    left: 170px;
+    top: 430px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
 
 
-color: #858585;
+    color: #858585;
 
 
 }
 
-#bit-image-3{
+#bit-image-3 {
     position: absolute;
-width: 40px;
-height: 40px;
-left: 0px;
-top: 494px;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 494px;
 
 }
 
-.bit-3{
+.bit-3 {
     position: absolute;
     width: 72px;
     height: 30px;
     left: 63px;
     top: 499px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
 
-.btc-3{
+.btc-3 {
     position: absolute;
     width: 31px;
     height: 24px;
     left: 154px;
     top: 502px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     /* identical to box height */
-    
-    
+
+
     color: #858585;
 
 
 
 }
 
-#eth-img-3{
+#eth-img-3 {
     position: absolute;
     width: 40px;
     height: 40px;
     left: 0px;
     top: 566px;
-    
+
 
 }
 
-.ent-3{
+.ent-3 {
     position: absolute;
     width: 101px;
     height: 30px;
     left: 65px;
     top: 571px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 
 }
 
-.eth-3{
+.eth-3 {
     position: absolute;
     width: 28px;
     height: 24px;
     left: 181px;
     top: 574px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     /* identical to box height */
-    
-    
+
+
     color: #858585;
-    
+
 }
 
-#shi-img-3{
+#shi-img-3 {
     position: absolute;
     width: 40px;
     height: 40px;
     left: 0px;
     top: 638px;
-    
+
 
 }
 
-.shi-3{
+.shi-3 {
     position: absolute;
     width: 92px;
     height: 30px;
     left: 63px;
     top: 643px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.shibu-3{
+.shibu-3 {
 
     position: absolute;
     width: 45px;
     height: 24px;
     left: 170px;
     top: 646px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     /* identical to box height */
-    
-    
+
+
     color: #858585;
 
 }
 
-#bit-image-4{
+#bit-image-4 {
     position: absolute;
     width: 40px;
     height: 40px;
     left: 0px;
     top: 710px;
-    
+
 
 }
 
-.bit-4{
+.bit-4 {
     position: absolute;
     width: 72px;
     height: 30px;
     left: 63px;
     top: 715px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.btc-4{
+.btc-4 {
     position: absolute;
     width: 31px;
     height: 24px;
     left: 154px;
     top: 718px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     /* identical to box height */
-    
-    
+
+
     color: #858585;
-    
+
 }
 
-.bit-price{
+.bit-price {
     position: absolute;
-width: 93px;
-height: 30px;
-left: 368px;
-top: 67px;
+    width: 93px;
+    height: 30px;
+    left: 368px;
+    top: 67px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.bit-change{
+.bit-change {
     position: absolute;
-width: 60px;
-height: 30px;
-left: 624px;
-top: 67px;
+    width: 60px;
+    height: 30px;
+    left: 624px;
+    top: 67px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #14FF00;
+    color: #14FF00;
 
 }
 
-.eth-price{
+.eth-price {
     position: absolute;
-width: 78px;
-height: 30px;
-left: 370px;
-top: 139px;
+    width: 78px;
+    height: 30px;
+    left: 370px;
+    top: 139px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.eth-change{
+.eth-change {
     position: absolute;
     width: 58px;
     height: 30px;
     left: 624px;
     top: 139px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FF0000;
-    
+
 }
 
-.shi-price{
+.shi-price {
     position: absolute;
-width: 65px;
-height: 30px;
-left: 368px;
-top: 211px;
+    width: 65px;
+    height: 30px;
+    left: 368px;
+    top: 211px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
 
-.bit-price-2{
+.bit-price-2 {
     position: absolute;
-width: 93px;
-height: 30px;
-left: 368px;
-top: 283px;
+    width: 93px;
+    height: 30px;
+    left: 368px;
+    top: 283px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.eth-price-2{
+.eth-price-2 {
     position: absolute;
-width: 78px;
-height: 30px;
-left: 370px;
-top: 355px;
+    width: 78px;
+    height: 30px;
+    left: 370px;
+    top: 355px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
-.shi-price-2{
+.shi-price-2 {
     position: absolute;
-width: 65px;
-height: 30px;
-left: 368px;
-top: 427px;
+    width: 65px;
+    height: 30px;
+    left: 368px;
+    top: 427px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
-.bit-price-3{
+.bit-price-3 {
     position: absolute;
     width: 93px;
     height: 30px;
     left: 368px;
     top: 499px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
-.eth-price-3{
+.eth-price-3 {
     position: absolute;
     width: 78px;
     height: 30px;
     left: 370px;
     top: 571px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 
 }
 
 
-.shi-price-3{
+.shi-price-3 {
     position: absolute;
     width: 65px;
     height: 30px;
     left: 368px;
     top: 643px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
-.bit-price-4{
+.bit-price-4 {
     position: absolute;
     width: 93px;
     height: 30px;
     left: 368px;
     top: 715px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
-.shi-change{
+.shi-change {
     position: absolute;
-width: 54px;
-height: 30px;
-left: 624px;
-top: 211px;
+    width: 54px;
+    height: 30px;
+    left: 624px;
+    top: 211px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 30px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
 
 
-color: #14FF00;
+    color: #14FF00;
 
 }
 
-.bit-change-2{
+.bit-change-2 {
     position: absolute;
     width: 60px;
     height: 30px;
     left: 624px;
     top: 283px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #14FF00;
-    
+
 }
 
 
-.eth-change-2{
+.eth-change-2 {
     position: absolute;
     width: 58px;
     height: 30px;
     left: 624px;
     top: 355px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FF0000;
-    
+
 }
 
 
-.shi-change-2{
+.shi-change-2 {
     position: absolute;
     width: 54px;
     height: 30px;
     left: 624px;
     top: 427px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #14FF00;
-    
+
 }
 
 
 
-.bit-change-3{
+.bit-change-3 {
     position: absolute;
     width: 60px;
     height: 30px;
     left: 624px;
     top: 499px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #14FF00;
-    
+
 }
 
-.eth-change-3{
+.eth-change-3 {
     position: absolute;
     width: 58px;
     height: 30px;
     left: 624px;
     top: 571px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FF0000;
-    
+
 }
 
-.shi-change-3{
+.shi-change-3 {
     position: absolute;
     width: 54px;
     height: 30px;
     left: 624px;
     top: 643px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #14FF00;
 }
 
 
-.bit-change-4{
+.bit-change-4 {
     position: absolute;
     width: 60px;
     height: 30px;
     left: 624px;
     top: 715px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #14FF00;
-    
 
-    
+
+
 }
 
 
-.bit-chart{
+.bit-chart {
     position: absolute;
-width: 58px;
-height: 22px;
-left: 847px;
-top: 71px;
+    width: 58px;
+    height: 22px;
+    left: 847px;
+    top: 71px;
 
 
 
 }
 
-.eth-chart{
+.eth-chart {
     position: absolute;
-width: 58px;
-height: 22px;
-left: 849px;
-top: 143px;
+    width: 58px;
+    height: 22px;
+    left: 849px;
+    top: 143px;
 
 }
 
-.shi-chart{
+.shi-chart {
     position: absolute;
-width: 58px;
-height: 22px;
-left: 847px;
-top: 215px;
+    width: 58px;
+    height: 22px;
+    left: 847px;
+    top: 215px;
 }
 
-.bit-chart-2{
+.bit-chart-2 {
     position: absolute;
-width: 58px;
-height: 22px;
-left: 847px;
-top: 287px;
+    width: 58px;
+    height: 22px;
+    left: 847px;
+    top: 287px;
 }
 
-.bit-chart-3{
+.bit-chart-3 {
     position: absolute;
     width: 58px;
     height: 22px;
@@ -1148,7 +1148,7 @@ top: 287px;
     top: 503px;
 }
 
-.bit-chart-4{
+.bit-chart-4 {
     position: absolute;
     width: 58px;
     height: 22px;
@@ -1156,14 +1156,15 @@ top: 287px;
     top: 719px;
 }
 
-.shi-chart-2{
+.shi-chart-2 {
     position: absolute;
-width: 58px;
-height: 22px;
-left: 847px;
-top: 431px;
+    width: 58px;
+    height: 22px;
+    left: 847px;
+    top: 431px;
 }
-.shi-chart-3{
+
+.shi-chart-3 {
     position: absolute;
     width: 58px;
     height: 22px;
@@ -1172,251 +1173,252 @@ top: 431px;
 }
 
 
-.eth-chart-2{
+.eth-chart-2 {
     position: absolute;
     width: 58px;
     height: 22px;
     left: 849px;
     top: 359px;
-    
+
 }
 
-.eth-chart-3{
+.eth-chart-3 {
     position: absolute;
     width: 58px;
     height: 22px;
     left: 849px;
     top: 575px;
-    
+
 }
 
-.bit-maket{
+.bit-maket {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1035px;
     top: 67px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 
 }
 
-.bit-maket-2{
+.bit-maket-2 {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1035px;
     top: 283px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
-.bit-maket-3{
+.bit-maket-3 {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1035px;
     top: 499px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 
 }
 
-.bit-maket-4{
+.bit-maket-4 {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1035px;
     top: 715px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
 
-.eth-market{
+.eth-market {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1037px;
     top: 139px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 
 }
 
-.eth-market-2{
+.eth-market-2 {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1037px;
     top: 355px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.eth-market-3{
+.eth-market-3 {
     position: absolute;
     width: 170px;
     height: 30px;
     left: 1037px;
     top: 571px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
-.shi-market{
+
+.shi-market {
     position: absolute;
     width: 157px;
     height: 30px;
     left: 1035px;
     top: 211px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.shi-market-2{
+.shi-market-2 {
     position: absolute;
     width: 157px;
     height: 30px;
     left: 1035px;
     top: 427px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.shi-market-3{
+.shi-market-3 {
     position: absolute;
     width: 157px;
     height: 30px;
     left: 1035px;
     top: 643px;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
-    
+
 }
 
-#view{
+#view {
     position: absolute;
-left: 43.21%;
-right: 42.94%;
-top: 36.06%;
-bottom: 61.99%;
+    left: 43.21%;
+    right: 42.94%;
+    top: 36.06%;
+    bottom: 61.99%;
 
-background: linear-gradient(90deg, #3DD8EE 0%, #0997E8 100%);
-border-radius: 8px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 36px;
-color: #FFFFFF;
+    background: linear-gradient(90deg, #3DD8EE 0%, #0997E8 100%);
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
 }
 
-.map-box{
+.map-box {
     position: absolute;
-left: 0.28%;
-right: 0%;
-top: 40.6%;
-bottom: 38.27%;
+    left: 0.28%;
+    right: 0%;
+    top: 40.6%;
+    bottom: 38.27%;
 
-background: #00092A;
+    background: #00092A;
 }
 
-.map{
+.map {
     position: absolute;
-left: 8.89%;
-right: 18.02%;
-top: 2.84%;
-bottom: 17.01%;
+    left: 8.89%;
+    right: 18.02%;
+    top: 2.84%;
+    bottom: 17.01%;
 
 
 }
 
-.map-shi{
+.map-shi {
     position: absolute;
     left: 11.05%;
     right: 76.18%;
@@ -1425,52 +1427,53 @@ bottom: 17.01%;
 
 }
 
-.add{
+.add {
     position: absolute;
-left: 58.52%;
-right: 9.76%;
-top: 5.29%;;
-bottom: 54.2%;
+    left: 58.52%;
+    right: 9.76%;
+    top: 5.29%;
+    ;
+    bottom: 54.2%;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 36px;
-line-height: 54px;
-text-transform: capitalize;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    text-transform: capitalize;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.add-2{
+.add-2 {
     position: absolute;
     left: 58.52%;
     right: 10.87%;
     top: 46.61%;
     bottom: 51.05%;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    
+
     color: #FFFFFF;
-    
+
 
 }
 
-.plan-box{
+.plan-box {
     position: absolute;
-left: 58.52%;
-right: 35.94%;
-top: 50.08%;
-bottom: 47.32%;
+    left: 58.52%;
+    right: 35.94%;
+    top: 50.08%;
+    bottom: 47.32%;
 
-background: #0F1535;
+    background: #0F1535;
 }
 
-.box-title{
+.box-title {
     position: relative;
     left: 126.93%;
     right: 29.92%;
@@ -1486,33 +1489,33 @@ background: #0F1535;
 }
 
 
-.box-para{
+.box-para {
     position: absolute;
     left: 65.93%;
     right: 6.93%;
     top: 51.05%;
     bottom: 47.39%;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    
+
     color: #FFFFFF;
 }
 
-.plan-box-2{
+.plan-box-2 {
     position: absolute;
-left: 58.52%;
-right: 35.94%;
-top: 53.65%;
-bottom: 43.75%;
+    left: 58.52%;
+    right: 35.94%;
+    top: 53.65%;
+    bottom: 43.75%;
 
-background: #0F1535;
+    background: #0F1535;
 }
 
-.box-title-2{
+.box-title-2 {
     position: absolute;
     left: 130.93%;
     right: 26.8%;
@@ -1527,35 +1530,35 @@ background: #0F1535;
 }
 
 
-.plan-box-3{
+.plan-box-3 {
     position: absolute;
-left: 58.52%;
-right: 35.94%;
-top: 57.22%;
-bottom: 40.18%;
+    left: 58.52%;
+    right: 35.94%;
+    top: 57.22%;
+    bottom: 40.18%;
 
-background: #0F1535;
+    background: #0F1535;
 }
 
-.box-para-2{
+.box-para-2 {
     position: absolute;
-left: 65.93%;
-right: 6.93%;
-top: 54.63%;
-bottom: 43.82%;
+    left: 65.93%;
+    right: 6.93%;
+    top: 54.63%;
+    bottom: 43.82%;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 }
 
 
-.box-title-3{
+.box-title-3 {
     position: absolute;
     left: 130.93%;
     right: 26.52%;
@@ -1570,23 +1573,23 @@ color: #FFFFFF;
 
 }
 
-.box-para-3{
+.box-para-3 {
     position: absolute;
-left: 65.93%;
-right: 6.93%;
-top: 58.2%;
-bottom: 40.25%;
+    left: 65.93%;
+    right: 6.93%;
+    top: 58.2%;
+    bottom: 40.25%;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.box-icon{
+.box-icon {
     position: absolute;
     left: 33.25%;
     right: 37.67%;
@@ -1596,7 +1599,7 @@ color: #FFFFFF;
 
 }
 
-.box-icon-2{
+.box-icon-2 {
     position: absolute;
     left: 36.46%;
     right: 37.81%;
@@ -1606,7 +1609,7 @@ color: #FFFFFF;
 }
 
 
-.box-icon-3{
+.box-icon-3 {
     position: absolute;
     left: 35.46%;
     right: 37.81%;
@@ -1614,19 +1617,239 @@ color: #FFFFFF;
     bottom: 41.06%;
 }
 
-
-.footer{
+.add-3 {
     position: absolute;
-left: 0.28%;
-right: 0%;
-top: 85.49%;
-bottom: 1.04%;
+    left: 7.2%;
+    right: 63.3%;
+    top: 64.33%;
+    bottom: 32.16%;
 
-background: #00092A;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+
+    color: #FFFFFF;
+}
+
+.mark {
+    position: absolute;
+    left: 7.2%;
+    right: 90.72%;
+    top: 70.11%;
+    bottom: 28.92%;
+
+}
+
+.buy {
+    position: absolute;
+    left: 10.32%;
+    right: 74.31%;
+    top: 70.11%;
+    bottom: 28.92%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.buy-1 {
+    position: absolute;
+    left: 10.32%;
+    right: 55.61%;
+    top: 71.24%;
+    bottom: 26.42%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+}
+
+.mark-1 {
+    position: absolute;
+    left: 7.2%;
+    right: 90.72%;
+    top: 74.55%;
+    bottom: 24.47%;
+}
+
+.high-1 {
+    position: absolute;
+    left: 10.32%;
+    right: 75.21%;
+    top: 74.55%;
+    bottom: 24.47%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.high-2 {
+    position: absolute;
+    left: 10.32%;
+    right: 55.61%;
+    top: 75.69%;
+    bottom: 21.97%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+
+}
+
+.mark-2 {
+    position: absolute;
+    left: 7.2%;
+    right: 90.72%;
+    top: 79%;
+    bottom: 20.03%;
+}
+
+.growth {
+    position: absolute;
+    left: 10.32%;
+    right: 67.04%;
+    top: 79%;
+    bottom: 20.03%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.growth-1 {
+    position: absolute;
+    left: 10.32%;
+    right: 55.61%;
+    top: 80.14%;
+    bottom: 17.53%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
 }
 
 
-.footer-icon{
+.glass {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 60.46%;
+    right: 14.27%;
+    top: 65.63%;
+    bottom: 17.1%;
+    background: linear-gradient(180.04deg, rgba(4, 19, 52, 0.78) -3.16%, rgba(15, 37, 84, 0.62) 99.42%);
+    border: 2px solid #142346;
+    backdrop-filter: blur(1px);
+    border-radius: 50px;
+
+}
+
+.glass-prof {
+    position: relative;
+    left: 11.16%;
+    right: 16.9%;
+    top: 6.06%;
+    bottom: 31.78%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+
+}
+
+
+.glass-img-bit {
+    position: absolute;
+    left: 12.3%;
+    right: 32.55%;
+    top: 19.13%;
+    bottom: 28.92%;
+
+
+}
+
+.glass-bit {
+    position: absolute;
+    left: 31.84%;
+    right: 26.94%;
+    top: 19.3%;
+    bottom: 29.83%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+
+}
+
+.glass-price {
+    position: absolute;
+    left: 78.39%;
+    right: 18.49%;
+    top: 19.69%;
+    bottom: 29.44%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #00FF47;
+
+}
+
+.footer {
+    position: absolute;
+    left: 0.28%;
+    right: 0%;
+    top: 85.49%;
+    bottom: 1.04%;
+
+    background: #00092A;
+}
+
+
+.footer-icon {
     position: absolute;
     left: 7.41%;
     right: 0.01%;
@@ -1634,7 +1857,7 @@ background: #00092A;
     bottom: 0%;
 }
 
-.footer-title{
+.footer-title {
     position: absolute;
     left: 7.41%;
     right: 50.9%;
@@ -1649,24 +1872,24 @@ background: #00092A;
 }
 
 
-.footer-container{
+.footer-container {
     display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: flex-start;
-padding: 0px 80px;
-gap: 120px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 80px;
+    gap: 120px;
 
-position: absolute;
-left: 45.84%;
-right: 1.52%;
-top: 87.76%;
-bottom: 3.31%;
+    position: absolute;
+    left: 45.84%;
+    right: 1.52%;
+    top: 87.76%;
+    bottom: 3.31%;
 
-background: #00092A;
+    background: #00092A;
 }
 
-.company{
+.company {
     position: absolute;
     width: 120px;
     height: 36px;
@@ -1679,95 +1902,95 @@ background: #00092A;
     line-height: 36px;
     color: #FFFFFF;
 }
-    
 
 
-.support{
+
+.support {
     position: absolute;
     width: 95px;
     height: 36px;
     left: 342px;
     top: -830%;
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 36px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 
 }
 
-.socials{
+.socials {
     position: absolute;
     width: 85px;
     height: 36px;
     left: 570px;
-    top:  -830%;
-    
+    top: -830%;
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 36px;
     /* identical to box height */
-    
-    
+
+
     color: #FFFFFF;
 }
 
-.about{
+.about {
     position: absolute;
-width: 71px;
-height: 24px;
-left: 124px;
-top: -234px;
+    width: 71px;
+    height: 24px;
+    left: 124px;
+    top: -234px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.requested{
+.requested {
     position: absolute;
-width: 131px;
-height: 24px;
-left: 342px;
-top: -234px;
+    width: 131px;
+    height: 24px;
+    left: 342px;
+    top: -234px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
 }
 
 
 
-.fb{
+.fb {
     position: absolute;
-width: 79px;
-height: 24px;
-left: 570px;
-top: -234px;
+    width: 79px;
+    height: 24px;
+    left: 570px;
+    top: -234px;
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
 
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
