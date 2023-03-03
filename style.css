@@ -1994,3 +1994,21 @@ html {
 
     color: #FFFFFF;
 }
+
+.last {
+    position: absolute;
+    left: 40.86%;
+    right: 40.51%;
+    top: 99.31%;
+    bottom: 0%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
